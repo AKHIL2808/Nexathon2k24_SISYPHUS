@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Labels from '../components/Labels'
 function LoginPage() {
     return (
-        <div className='h-screen max-wd-md screen flex items-center justify-center flex-col bg-black  p-4'>
+        <div className='h-screen max-wd-md screen flex items-center justify-center flex-col bg-black animated-background p-4'>
 
           
             <div className='flex flex-col items-center justify-center w-96 border-2 border-white-500 rounded-lg p-8 gap-4'>
